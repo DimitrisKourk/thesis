@@ -1,0 +1,13 @@
+{
+    "workbench.settings.editor": "json",
+    "workbench.settings.useSplitJSON": true,
+    "spellright.language": [
+        "el",
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "plaintext",
+        "tex"
+    ]
+}

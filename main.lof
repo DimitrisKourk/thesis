@@ -1,0 +1,111 @@
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\addvspace {10\p@ }
+\babel@toc {greek}{}\relax 
+\addvspace {10\p@ }
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1}{\ignorespaces Life magazine photo of comedian Danny Kaye standing in front of Bertie the Brain at the Canadian National Exhibition in 1950 Source:\blx@tocontentsinit {0}\cite {QuantumGames}}}{4}{figure.caption.15}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Example of Finite State Machine Behavior Control}}{5}{figure.caption.18}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Hierarchical FSM example. Same colored arrows represent interactions between states of the same level of hierarchy. B3 is zoomed out view of inner state of B.}}{6}{figure.caption.19}%
+\contentsline {figure}{\numberline {4}{\ignorespaces A behavior tree that will retrieve and then try to enter every single door into a building and return success if the character succeeded in getting in any of the doors, and it will return failure if they did not. Source:\blx@tocontentsinit {0}\cite {BehaviorTrees}}}{7}{figure.caption.21}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Overview of the Robertson-Watson approach. Source:\blx@tocontentsinit {0}\cite {robertson_2015_building}}}{8}{figure.caption.22}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Reducing the BT using GLAM2. Source:\blx@tocontentsinit {0}\cite {robertson_2015_building}}}{8}{figure.caption.23}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Simple Unreal Engine 4 "Zombie" Behavior Tree. Source:\blx@tocontentsinit {0}\cite {UE_documentation_behavior}}}{10}{figure.caption.24}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Simple neural network graph representation. Source:\blx@tocontentsinit {0}\cite {dertat_2017}}}{10}{figure.caption.26}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Deep Neural Network Architecture Source:\blx@tocontentsinit {0}\cite {DeepNN}}}{11}{figure.caption.27}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Path finding comparison Blue is on-policy and Red is off-policy Source:\blx@tocontentsinit {0}\cite {sutton_2020_reinforcement}}}{12}{figure.caption.29}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Value-Based and Policy-Based Algorithms. {[}Image by Owen Louis, Reproduced from David Silver's RL Course{]}}}{13}{figure.caption.31}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Online and offline learning processes comparison.}}{14}{figure.caption.33}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Overview of the OpenAI Five model. Source:\blx@tocontentsinit {0}\cite {OpenAIFiveArch}}}{15}{figure.caption.34}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Simplified latent space representation. Source:\blx@tocontentsinit {0}\cite {verma_2023_Latent}}}{16}{figure.caption.36}%
+\contentsline {figure}{\numberline {15}{\ignorespaces VAE Architecture Source:\blx@tocontentsinit {0}\cite {shende_2023}}}{17}{figure.caption.38}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Mak,Han,Yin VAE model. Source:\blx@tocontentsinit {0}\cite {mak_2023_application}}}{17}{figure.caption.39}%
+\contentsline {figure}{\numberline {17}{\ignorespaces The zoom-in version of an output game map of Arknights after the mixing of several processed images in the VAE model. Source:\blx@tocontentsinit {0}\cite {mak_2023_application}}}{18}{figure.caption.40}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Two sample output images obtained from the VAE model based on the anime-girl dataset. Source:\blx@tocontentsinit {0}\cite {mak_2023_application}}}{18}{figure.caption.41}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Overview of C-GAN architecture. Source:\blx@tocontentsinit {0}\cite {melanie_2023_what}}}{19}{figure.caption.43}%
+\contentsline {figure}{\numberline {20}{\ignorespaces BiGAN Architecture. In addition to the Generator G, an encoder maps data to latent representations. The BiGAN discriminator discriminate jointly in data space and latent space, where the latent component is either an encoder output or a generator input. Source:\blx@tocontentsinit {0}\cite {BiGan_2017}}}{20}{figure.caption.44}%
+\contentsline {figure}{\numberline {21}{\ignorespaces StyleGAN Generator. Source:\blx@tocontentsinit {0}\cite {StyleGAN_2023}}}{20}{figure.caption.45}%
+\contentsline {figure}{\numberline {22}{\ignorespaces StyleGAN Face mixing example. Source:\blx@tocontentsinit {0}\cite {StyleGAN_2023}}}{21}{figure.caption.46}%
+\contentsline {figure}{\numberline {23}{\ignorespaces CycleGAN architecture Horse to Zebra to Horse example. Source:\blx@tocontentsinit {0}\cite {CycleGAN_2020}}}{21}{figure.caption.47}%
+\contentsline {figure}{\numberline {24}{\ignorespaces DCGAN architecture. Source:\blx@tocontentsinit {0}\cite {DCGAN_2022}}}{22}{figure.caption.48}%
+\contentsline {figure}{\numberline {25}{\ignorespaces GameGAN architecture. Source:\blx@tocontentsinit {0}\cite {nvidia_GameGAN}}}{23}{figure.caption.50}%
+\contentsline {figure}{\numberline {26}{\ignorespaces GameGAN Element Swapping. Source:\blx@tocontentsinit {0}\cite {kim_2020_learning}}}{23}{figure.caption.51}%
+\contentsline {figure}{\numberline {27}{\ignorespaces MC-GAN Architecture. Source:\blx@tocontentsinit {0}\cite {ghasemshirazi_2021_mcgan}}}{24}{figure.caption.52}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Context Encoder Architecture with example. Source:\blx@tocontentsinit {0}\cite {pathak_2016_context}}}{25}{figure.caption.54}%
+\contentsline {figure}{\numberline {29}{\ignorespaces a) A Wang tile with all combinations of marked corners. b)Tiling from the expanded tile set that shows various combinations of marked/unmarked tile corners. c) two source images d) tiling that contains density information. e) a tiled plane (12x12) constructed from a tile set with inhomogeneities. Source:\blx@tocontentsinit {0}\cite {cohen_2003_wang}}}{25}{figure.caption.55}%
+\contentsline {figure}{\numberline {30}{\ignorespaces SeamlessGAN Architecture. Source:\blx@tocontentsinit {0}\cite {rodriguezpardo_2023_seamlessgan}}}{26}{figure.caption.56}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Comparison of SeamlessGAN with other technics. SeamlessGAN method generally captures better the overall structure of the texture, while providing seamless and semantically coherent borders, for enhancing tileability. Source:\blx@tocontentsinit {0}\cite {rodriguezpardo_2023_seamlessgan}}}{27}{figure.caption.57}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Overview of EST-GAN Architecture. Source:\blx@tocontentsinit {0}\cite {mittermueller_2022_estgan} }}{29}{figure.caption.60}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Example of Sampled G-Buffer Frames. Left from Unity Domain X. Right from RDR2 Domain Y. Source:\blx@tocontentsinit {0}\cite {mittermueller_2022_estgan} }}{29}{figure.caption.61}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Comparison of a) Sampled Albedo b) CycleGAN generated Albedo c) CycleGAN+Semantic Loss Albedo. Source:\blx@tocontentsinit {0}\cite {mittermueller_2022_estgan} }}{30}{figure.caption.62}%
+\contentsline {figure}{\numberline {35}{\ignorespaces a) Domain X sharp normal edges b) Domain Y smoother edges c)Domain Y after Clustering. Source:\blx@tocontentsinit {0}\cite {mittermueller_2022_estgan} }}{30}{figure.caption.63}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Left Baseline Unity Frame. Right EST-GAN final model produced Frame. Source:\blx@tocontentsinit {0}\cite {mittermueller_2022_estgan}}}{31}{figure.caption.64}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Different 3D representations of a rabbit. Source:\blx@tocontentsinit {0}\cite {wolfe_2023}}}{31}{figure.caption.66}%
+\contentsline {figure}{\numberline {38}{\ignorespaces Ben Hamu et al model results. Source:\blx@tocontentsinit {0}\cite {benhamu_2019_multichart}}}{32}{figure.caption.67}%
+\contentsline {figure}{\numberline {39}{\ignorespaces Spick et al. GAN model architecture. Source:\blx@tocontentsinit {0}\cite {spick_2020_naive}}}{33}{figure.caption.68}%
+\contentsline {figure}{\numberline {40}{\ignorespaces Spick et al. GAN model Results. Source:\blx@tocontentsinit {0}\cite {spick_2020_naive}}}{33}{figure.caption.69}%
+\contentsline {figure}{\numberline {41}{\ignorespaces Spick et al. GAN model Results after Marching Cubes. Source:\blx@tocontentsinit {0}\cite {spick_2020_naive}}}{34}{figure.caption.70}%
+\contentsline {figure}{\numberline {42}{\ignorespaces IG-GAN architecture. Source:\blx@tocontentsinit {0}\cite {lunz_2020_inverse}}}{35}{figure.caption.71}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Normal maps of objects generated by IG-GAN using multiple images of the same object from different points of view. Source:\blx@tocontentsinit {0}\cite {lunz_2020_inverse}}}{36}{figure.caption.72}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Terrain rendered from height-map using TerreSculptor.}}{37}{figure.caption.74}%
+\contentsline {figure}{\numberline {45}{\ignorespaces Eric Guérin et al. terrain model architecture. Source:\blx@tocontentsinit {0}\cite {gurin_2017_interactive}}}{38}{figure.caption.75}%
+\contentsline {figure}{\numberline {46}{\ignorespaces Left original image generated by PolycamAI 512x512. Right 4x upscaled image 2048x2048 using Real-ESRGAN (a free to use online implementation of the ESRGAN model).}}{39}{figure.caption.76}%
+\contentsline {figure}{\numberline {47}{\ignorespaces Simplified example of a Hierarchy of Denoising Autoencoders. Forward process starts from top left and Backward process ends at top right.}}{40}{figure.caption.78}%
+\contentsline {figure}{\numberline {48}{\ignorespaces Diffusion process example. Source:\blx@tocontentsinit {0}\cite {kreis_gao_vahdat_2022}}}{40}{figure.caption.79}%
+\contentsline {figure}{\numberline {49}{\ignorespaces Latent Diffusion Model Architecture with notes. Source:\blx@tocontentsinit {0}\cite {siddiqui_2022}}}{41}{figure.caption.80}%
+\contentsline {figure}{\numberline {50}{\ignorespaces 3D point cloud diffusion. Source:\blx@tocontentsinit {0}\cite {luo_2021_diffusion}}}{43}{figure.caption.83}%
+\contentsline {figure}{\numberline {51}{\ignorespaces Partial point clouds from depth map and PVD completed shape. Source:\blx@tocontentsinit {0}\cite {zhou_2021_3d}}}{44}{figure.caption.84}%
+\contentsline {figure}{\numberline {52}{\ignorespaces a) partial point cloud b) Possible variations. Source:\blx@tocontentsinit {0}\cite {zhou_2021_3d}}}{44}{figure.caption.85}%
+\contentsline {figure}{\numberline {53}{\ignorespaces LION same voxel input resulting in different final generations. Source:\blx@tocontentsinit {0}\cite {zeng_2022_lion}}}{45}{figure.caption.86}%
+\contentsline {figure}{\numberline {54}{\ignorespaces LION Architecture. Source:\blx@tocontentsinit {0}\cite {zeng_2022_lion}}}{46}{figure.caption.87}%
+\contentsline {figure}{\numberline {55}{\ignorespaces Example of a) Waveform b) MIDI representation.}}{47}{figure.caption.89}%
+\contentsline {figure}{\numberline {56}{\ignorespaces MIDI latent diffusion model Architecture.}}{47}{figure.caption.90}%
+\contentsline {figure}{\numberline {57}{\ignorespaces AudioLDM Architecture. Source:\blx@tocontentsinit {0}\cite {liu_2023_audioldm}}}{48}{figure.caption.91}%
+\contentsline {figure}{\numberline {58}{\ignorespaces TANGO Architecture. Source:\blx@tocontentsinit {0}\cite {ghosal_2023_texttoaudio}}}{50}{figure.caption.92}%
+\contentsline {figure}{\numberline {59}{\ignorespaces AudioLDM2 Architecture. Source:\blx@tocontentsinit {0}\cite {liu_2023_audioldm2}}}{51}{figure.caption.93}%
+\contentsline {figure}{\numberline {60}{\ignorespaces Stable Audio timing variables. Source:\blx@tocontentsinit {0}\cite {evans_2024_fast}}}{52}{figure.caption.94}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {61}{\ignorespaces Difficulty curve examples a) Steady increase b) Easy to learn hard to master c) Teaching new mechanics d) Sudden difficulty spike, bad design. Source:\blx@tocontentsinit {0}\cite {strachan_2018} }}{63}{figure.caption.112}%
+\contentsline {figure}{\numberline {62}{\ignorespaces Overview of the Left 4 Dead 2 director's influence in the game.}}{63}{figure.caption.113}%
+\contentsline {figure}{\numberline {63}{\ignorespaces a) Crash Bandicoot b) Half-life 2 - Alyx c) Skyrim Daedric Armor d) Diablo IV Barbarian.}}{65}{figure.caption.117}%
+\contentsline {figure}{\numberline {64}{\ignorespaces Example of LODs. Left-most is closest to camera Right-most the furthest away.}}{65}{figure.caption.118}%
+\contentsline {figure}{\numberline {65}{\ignorespaces a) Animated Materia example from unreal engine 5. b) List of all supported maps used in unreal engine's PBR workflow. In this case (Opaque) only the supported ones are enabled for use.}}{66}{figure.caption.119}%
+\contentsline {figure}{\numberline {66}{\ignorespaces Collision example from unreal engine 5. The GREEN lines represent the simple and the WHITE lines the complex collision.}}{67}{figure.caption.120}%
+\contentsline {figure}{\numberline {67}{\ignorespaces Armature and mesh(displaced) from front, side and top view.}}{70}{figure.caption.123}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {68}{\ignorespaces SLOYD AI playground interface.}}{84}{figure.caption.149}%
+\contentsline {figure}{\numberline {69}{\ignorespaces Polycam Texture Generator interface. Prompt is used to generate 4 different variations of the described texture.}}{86}{figure.caption.151}%
+\contentsline {figure}{\numberline {70}{\ignorespaces Real-ESRGAN playground interface. Source:\blx@tocontentsinit {0}\cite {realesrgan}}}{88}{figure.caption.153}%
+\contentsline {figure}{\numberline {71}{\ignorespaces a) Original generated texture b) Real-ESRGAN upscaled version.}}{90}{figure.caption.154}%
+\contentsline {figure}{\numberline {72}{\ignorespaces Soundraw Interface.}}{91}{figure.caption.157}%
+\contentsline {figure}{\numberline {73}{\ignorespaces Soundraw Track Editing Interface.}}{93}{figure.caption.158}%
+\contentsline {figure}{\numberline {74}{\ignorespaces Stable Audio Interface.}}{94}{figure.caption.160}%
+\contentsline {figure}{\numberline {75}{\ignorespaces Easy Diffusion Interface.}}{96}{figure.caption.163}%
+\contentsline {figure}{\numberline {76}{\ignorespaces Prompt: "Sci fi space station, very dark environment, few emissive green red and blue lights, reflective surfaces"}}{97}{figure.caption.164}%
+\contentsline {figure}{\numberline {77}{\ignorespaces Prompt: "Sci fi space station, very dark environment, few emissive green red and blue lights, reflective surfaces"}}{97}{figure.caption.165}%
+\contentsline {figure}{\numberline {78}{\ignorespaces Prompt: "Sci fi space station, dark environment, emissive lights"}}{98}{figure.caption.166}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {79}{\ignorespaces Unlit top-view of the level to be used as a simulation environment.}}{101}{figure.caption.173}%
+\contentsline {figure}{\numberline {80}{\ignorespaces Screenshot 1 taken from the UE5 Simulation Environment.}}{101}{figure.caption.174}%
+\contentsline {figure}{\numberline {81}{\ignorespaces Screenshot 2 taken from the UE5 Simulation Environment.}}{102}{figure.caption.175}%
+\contentsline {figure}{\numberline {82}{\ignorespaces Screenshot 3 taken from the UE5 Simulation Environment.}}{102}{figure.caption.176}%
+\contentsline {figure}{\numberline {83}{\ignorespaces Screenshot 4 taken from the UE5 Simulation Environment.}}{103}{figure.caption.177}%
+\contentsline {figure}{\numberline {84}{\ignorespaces Agent training loop within the unreal engine environment.}}{103}{figure.caption.179}%
+\contentsline {figure}{\numberline {85}{\ignorespaces Demonstration of the movement-camera linked system.}}{114}{figure.caption.185}%
+\contentsline {figure}{\numberline {86}{\ignorespaces The symmetric distance problem. A and B are the same distance away from the goal but in different locations}}{116}{figure.caption.188}%
+\contentsline {figure}{\numberline {87}{\ignorespaces The camera Z rotation problem. A and B are in the same location but have different camera Z rotation}}{116}{figure.caption.190}%
+\contentsline {figure}{\numberline {88}{\ignorespaces Agent aiming diagram. The red dot represents the predicted hit location and yellow X the target location.}}{118}{figure.caption.193}%
+\contentsline {figure}{\numberline {89}{\ignorespaces Agent aiming on target, despite the red dot not being on the yellow X. }}{120}{figure.caption.198}%
+\addvspace {10\p@ }

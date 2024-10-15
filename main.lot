@@ -1,0 +1,51 @@
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\addvspace {10\p@ }
+\babel@toc {greek}{}\relax 
+\addvspace {10\p@ }
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2}{\ignorespaces Comparing On-policy and Off-policy}}{12}{table.caption.28}%
+\contentsline {table}{\numberline {3}{\ignorespaces List of common Deep Reinforcement learning Algorithms}}{13}{table.caption.32}%
+\contentsline {table}{\numberline {4}{\ignorespaces Tom Moore's Pix2Pix model generated PBR maps. Source:\blx@tocontentsinit {0}\cite {moore_pix2pix}}}{28}{table.caption.58}%
+\contentsline {table}{\numberline {5}{\ignorespaces Comparison of discussed 3D GAN models}}{36}{table.caption.73}%
+\contentsline {table}{\numberline {6}{\ignorespaces List of most important features of the three discussed models. Stable diffusion is clearly more advanced in terms of features due to the open-source nature of the project.}}{42}{table.caption.81}%
+\contentsline {table}{\numberline {7}{\ignorespaces Comparison of PVD and LION models.}}{46}{table.caption.88}%
+\contentsline {table}{\numberline {8}{\ignorespaces Quantitative results on MusicCaps.}}{52}{table.caption.95}%
+\contentsline {table}{\numberline {9}{\ignorespaces Quantitative results on AudioCaps.}}{52}{table.caption.96}%
+\contentsline {table}{\numberline {10}{\ignorespaces Comparison of the discussed audio generative models.}}{53}{table.caption.97}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {11}{\ignorespaces Bethesda Studio's TES V:Skyrim Development team(Excluding Voice actors, musicians and production staff).Source:\blx@tocontentsinit {0}\cite {uesp}}}{60}{table.0.11}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {12}{\ignorespaces Prompt: "Cyberpunk, metal, wall panel, sci fi, technology"}}{87}{table.caption.152}%
+\contentsline {table}{\numberline {13}{\ignorespaces Prompt: "Mossy Runic Bricks, stone, moss"}}{88}{table.0.13}%
+\contentsline {table}{\numberline {14}{\ignorespaces Left the generated 512x512 textures. Right their upscaled versions of Real-ESRGAN }}{89}{table.0.14}%
+\contentsline {table}{\numberline {15}{\ignorespaces The action space and low and high bounds of each variable.}}{98}{table.caption.168}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {16}{\ignorespaces The action space and low and high bounds of each variable.}}{105}{table.caption.180}%
+\contentsline {table}{\numberline {17}{\ignorespaces The observation space as well as low and high bounds of each variable. Some variables have no actual upper bound, arbitrary 999999 value is set.}}{107}{table.caption.181}%
+\contentsline {table}{\numberline {18}{\ignorespaces Custom hyperparameters used for the PPO algorithm.}}{114}{table.0.18}%
+\contentsline {table}{\numberline {19}{\ignorespaces Experiment 1 action space and low and high bounds of each variable.}}{115}{table.caption.186}%
+\contentsline {table}{\numberline {20}{\ignorespaces Experiment 1 observation space/ State with low and high bounds.}}{115}{table.caption.187}%
+\contentsline {table}{\numberline {21}{\ignorespaces Experiment 2 observation space/ State with example of low and high bounds.}}{117}{table.caption.191}%
+\contentsline {table}{\numberline {22}{\ignorespaces Experiment 3 action space and low and high bounds of each variable.}}{118}{table.caption.194}%
+\contentsline {table}{\numberline {23}{\ignorespaces Experiment 3 observation space/ State with low and high bounds.}}{118}{table.caption.195}%
+\contentsline {table}{\numberline {24}{\ignorespaces Experiment 4 action space and low and high bounds of each variable.}}{119}{table.caption.197}%
+\contentsline {table}{\numberline {25}{\ignorespaces Experiment 4 observation space/ State with low and high bounds.}}{120}{table.caption.199}%
+\contentsline {table}{\numberline {26}{\ignorespaces Total timesteps of continuous training per experiment. sessions.}}{121}{table.caption.201}%
+\contentsline {table}{\numberline {27}{\ignorespaces Movement experiment 1 scalar curves. Three runs of the first experiment with different Observation spaces. Orange is a run with distance only, Blue is a run with distance + xy location, Dark Orange is a run with distance + xy location + camera rotation.}}{125}{table.0.27}%
+\contentsline {table}{\numberline {28}{\ignorespaces Movement experiment 2 scalar curves. Light Blue is session 1, Pink is session 6, Dark Orange is session 11, Orange is session 16, Dark Green is session 21, Blue is session 31, White is session 36}}{127}{table.0.28}%
+\contentsline {table}{\numberline {29}{\ignorespaces Aiming experiment 3 scalar curves. Orange is session 1, Pink is session 5, Dark Orange is session 10, Blue is session 16}}{130}{table.0.29}%
+\contentsline {table}{\numberline {30}{\ignorespaces Aiming+shooting experiment 4 scalar curves. Orange is session 1, Dark Orange is session 3, White is session 7, Blue is session 11}}{133}{table.0.30}%
+\addvspace {10\p@ }

@@ -1,0 +1,105 @@
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{ABSTRACT}{1}{chapter*.2}%
+\babel@toc {greek}{}\relax 
+\contentsline {chapter}{ΠΕΡΙΛΗΨΗ}{1}{chapter*.3}%
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{CHAPTER 1 Introduction}{1}{chapter*.7}%
+\contentsline {section}{(Sub-chapter 1.1) Origins of Gaming}{1}{section*.8}%
+\contentsline {subsection}{(Section 1.1.a) Brief History of Games}{1}{subsection*.9}%
+\contentsline {subsection}{(Section 1.1.b) Game Development}{1}{subsection*.10}%
+\contentsline {section}{(Sub-chapter 1.2) Artificial Intelligence-AI}{2}{section*.11}%
+\contentsline {subsection}{(Section 1.2.a) Introduction to the Concept of AI and connection with the Game Development Process}{2}{subsection*.12}%
+\contentsline {section}{(Sub-chapter 1.3) Thesis Motivation and Objective}{2}{section*.13}%
+\contentsline {chapter}{CHAPTER 2 Literature Review}{4}{chapter*.14}%
+\contentsline {section}{(Sub-chapter 2.1) Behavioral AI}{4}{section*.16}%
+\contentsline {subsection}{(Section 2.1.a) Finite State Machines}{5}{subsection*.17}%
+\contentsline {subsection}{(Section 2.1.b) Behavior Trees}{6}{subsection*.20}%
+\contentsline {subsection}{(Section 2.1.c) Neural Networks \bbl@greek@ampersand Deep learning}{10}{subsection*.25}%
+\contentsline {paragraph}{Value-based and Policy-based\\}{12}{paragraph*.30}%
+\contentsline {section}{(Sub-chapter 2.2) Generative AI}{15}{section*.35}%
+\contentsline {subsection}{(Section 2.2.a) Variational Auto-Encoders -- VAE}{16}{subsection*.37}%
+\contentsline {subsection}{(Section 2.2.b) Generative Adversarial Network - GAN}{19}{subsection*.42}%
+\contentsline {paragraph}{Dynamic Game Environments\\}{22}{paragraph*.49}%
+\contentsline {paragraph}{Seamless tileable textures\\}{24}{paragraph*.53}%
+\contentsline {paragraph}{Post-process effects\\}{28}{paragraph*.59}%
+\contentsline {paragraph}{3D Models\\}{31}{paragraph*.65}%
+\contentsline {subsection}{(Section 2.2.c) Latent Diffusion Models}{39}{subsection*.77}%
+\contentsline {paragraph}{3D OBJECTS\\}{42}{paragraph*.82}%
+\contentsline {section}{(Sub-chapter 2.3) Chapter Conclusions}{53}{section*.98}%
+\contentsline {chapter}{Chapter 3 Modern Video Game Development and Analysis of a Video Game's Components}{54}{chapter*.99}%
+\contentsline {section}{(Sub-chapter 3.1) Definition of a Video Game}{54}{section*.100}%
+\contentsline {paragraph}{"Game"}{54}{paragraph*.101}%
+\contentsline {paragraph}{"PLAY"}{54}{paragraph*.102}%
+\contentsline {paragraph}{"Audiovisual Apparatus"}{55}{paragraph*.103}%
+\contentsline {section}{(Sub-chapter 3.2) Breakdown of Video Game Development}{55}{section*.104}%
+\contentsline {subsection}{(Section 3.2.a) Evolution of the Game Development Industry}{55}{subsection*.105}%
+\contentsline {subsection}{(Section 3.2.b) Roles of a Development Team}{56}{subsection*.106}%
+\contentsline {section}{(Sub-chapter 3.3) Components of a Video Game}{60}{section*.107}%
+\contentsline {subsection}{(Section 3.3.a) Theoretical Components}{60}{subsection*.108}%
+\contentsline {paragraph}{The idea\\}{60}{paragraph*.109}%
+\contentsline {paragraph}{The World\\}{61}{paragraph*.110}%
+\contentsline {paragraph}{The Gameplay\\}{62}{paragraph*.111}%
+\contentsline {subsection}{(Section 3.3.b) Technical Components}{64}{subsection*.114}%
+\contentsline {paragraph}{Assets}{64}{paragraph*.115}%
+\contentsline {subparagraph}{OBJECTS\\\\}{64}{subparagraph*.116}%
+\contentsline {subparagraph}{SOUND\\\\}{67}{subparagraph*.121}%
+\contentsline {subparagraph}{VISUAL EFFECTS\\\\}{68}{subparagraph*.122}%
+\contentsline {paragraph}{Logic\\\\}{72}{paragraph*.124}%
+\contentsline {section}{(Sub-chapter 3.4) Chapter Conclusions}{73}{section*.125}%
+\contentsline {chapter}{CHAPTER 4 Challenges of Video Game Development and Benefits of Employing AI}{74}{chapter*.126}%
+\contentsline {section}{(Sub-chapter 4.1) Challenges Depending on the Scale}{74}{section*.127}%
+\contentsline {subsection}{(Section 4.1.a) Large Scale game development}{74}{subsection*.128}%
+\contentsline {subsection}{(Section 4.1.b) Small Scale game}{76}{subsection*.129}%
+\contentsline {section}{(Sub-chapter 4.2) Benefits of Employing AI in Game Development}{77}{section*.130}%
+\contentsline {subsection}{(Section 4.2.a) Prototyping}{77}{subsection*.131}%
+\contentsline {subsection}{(Section 4.2.b) Productivity}{77}{subsection*.132}%
+\contentsline {subsection}{(Section 4.2.c) Individual or Small teams}{78}{subsection*.133}%
+\contentsline {subsection}{(Section 4.2.d) Realism, Immersion and Replay-ability}{78}{subsection*.134}%
+\contentsline {subsection}{(Section 4.2.e) Post-Release Maintenance}{78}{subsection*.135}%
+\contentsline {subsection}{(Sub-chapter 4.3) Negative Effects of AI}{79}{subsection*.136}%
+\contentsline {subsection}{(Section 4.3.a)Reduction of jobs}{79}{subsection*.137}%
+\contentsline {subsection}{(Section 4.3.b)Sentiment of uncertainty}{79}{subsection*.138}%
+\contentsline {subsection}{(Section 4.3.c) Over-reliance on AI}{79}{subsection*.139}%
+\contentsline {section}{(Sub-chapter 4.4) Chapter Conclusions}{80}{section*.140}%
+\contentsline {chapter}{CHAPTER 5 Software used in Game Development and Replacement AI tools}{81}{chapter*.141}%
+\contentsline {section}{(Sub-chapter 5.1) Software}{81}{section*.142}%
+\contentsline {subsection}{(Section 5.1.a) Modeler}{81}{subsection*.143}%
+\contentsline {subsection}{(Section 5.1.b) Painter}{82}{subsection*.144}%
+\contentsline {subsection}{(Section 5.1.c) Audio Software}{82}{subsection*.145}%
+\contentsline {subsection}{(Section 5.1.d) Game Engine}{83}{subsection*.146}%
+\contentsline {section}{(Sub-chapter 5.2) AI Tools}{84}{section*.147}%
+\contentsline {subsection}{(Section 5.2.a) 3D Models -- Sloyd}{84}{subsection*.148}%
+\contentsline {subsection}{(Section 5.2.b) Textures -- Polycam and Real-ESRGAN}{86}{subsection*.150}%
+\contentsline {subsection}{(Section 5.2.c) Audio -- SOUNDRAW, Stable Audio and EvokeMusic}{90}{subsection*.155}%
+\contentsline {paragraph}{Music - SOUNDRAW\newline \newline }{90}{paragraph*.156}%
+\contentsline {paragraph}{Sound Effects -- STABLE AUDIO and EVOKE MUSIC}{93}{paragraph*.159}%
+\contentsline {subsection}{(Section 5.2.d) AI assistant - ChatGPT }{95}{subsection*.161}%
+\contentsline {subsection}{(Section 5.2.d) Concept Art -- Stable Diffusion/Easy Diffusion }{96}{subsection*.162}%
+\contentsline {section}{(Sub-chapter 5.3) Chapter Conclusions }{98}{section*.167}%
+\contentsline {chapter}{CHAPTER 6 Deep Reinforcement Learning inside Unreal Engine}{99}{chapter*.169}%
+\contentsline {section}{(Sub-chapter 6.1) Agent Training inside Unreal Engine}{99}{section*.170}%
+\contentsline {subsection}{(Section 6.1.a) Introduction to the MIND MAKER plug-in}{99}{subsection*.171}%
+\contentsline {subsection}{(Section 6.1.b) Custom Environment for Agent Training }{100}{subsection*.172}%
+\contentsline {subsection}{(Section 6.1.c) Designing an Agent}{103}{subsection*.178}%
+\contentsline {section}{(Sub-chapter 6.2) Deep RL Algorithm Chosen for Agent Training}{112}{section*.182}%
+\contentsline {section}{(Sub-chapter 6.3) Experiments, Training Results and Observations}{113}{section*.183}%
+\contentsline {subsection}{(Section 6.3.a) Experiment 1- Movement and camera control}{114}{subsection*.184}%
+\contentsline {subsection}{(Section 6.3.b) Experiment 2- Improved Movement and camera control}{116}{subsection*.189}%
+\contentsline {subsection}{(Section 6.3.c) Experiment 3- Stationary Aiming}{117}{subsection*.192}%
+\contentsline {subsection}{(Section 6.3.d) Experiment 4- Stationary Aiming and Shooting}{119}{subsection*.196}%
+\contentsline {subsection}{(Section 6.3.e) Training Observations and Scalar Curves}{121}{subsection*.200}%
+\contentsline {paragraph}{Proposed future improvements:\\}{121}{paragraph*.202}%
+\contentsline {paragraph}{PPO evaluation variables:\\}{122}{paragraph*.203}%
+\contentsline {section}{(Sub-chapter 6.4) Adapting Unreal Engine Environment for Real-World Applications Simulation}{133}{section*.204}%
+\contentsline {chapter}{CHAPTER 7 CONCLUSIONS}{135}{chapter*.205}%
+\contentsline {chapter}{BIBLIOGRAPHY}{136}{chapter*.206}%

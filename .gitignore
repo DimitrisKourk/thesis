@@ -1,0 +1,35 @@
+# LaTeX auxiliary files
+*.aux
+*.toc
+*.lof
+*.lot
+*.out
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.run.xml
+
+# biblatex / biber
+*.bbl
+*.bbl-SAVE-ERROR
+*.bcf
+*.blg
+
+# glossaries / acronyms
+*.acn
+*.acr
+*.alg
+*.glo
+*.gls
+*.glg
+*.ist
+
+# minted cache
+_minted-*/
+
+# compiled PDF (published as a GitHub Release instead)
+main.pdf
+
+# editor settings
+.vscode/
